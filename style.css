@@ -1,0 +1,404 @@
+/* ========================================
+   1. Grundlegende Seiteneinstellungen
+   ======================================== */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    background: #f3f3f3;
+    color: #222;
+}
+
+
+/* ========================================
+   2. Hauptcontainer
+   ======================================== */
+
+.game-container {
+    width: min(950px, 95%);
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+
+/* ========================================
+   3. Header
+   ======================================== */
+
+.game-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.game-header h1 {
+    margin-bottom: 8px;
+    font-size: 2.4rem;
+}
+
+.subtitle {
+    margin: 0;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+
+/* ========================================
+   4. Versuchszähler
+   ======================================== */
+
+.game-status {
+    text-align: center;
+    margin-bottom: 20px;
+
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+
+/* ========================================
+   5. Spielersuche
+   ======================================== */
+
+.player-search {
+    position: relative;
+
+    max-width: 550px;
+    margin: 0 auto 35px auto;
+}
+
+.player-search label {
+    display: block;
+
+    margin-bottom: 8px;
+
+    font-weight: bold;
+}
+
+.search-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+#player-input {
+    flex: 1;
+
+    padding: 12px 14px;
+
+    border: 1px solid #bbb;
+    border-radius: 6px;
+
+    font-size: 1rem;
+}
+
+#player-input:focus {
+    outline: 2px solid #555;
+    border-color: transparent;
+}
+
+#guess-button {
+    padding: 12px 20px;
+
+    border: none;
+    border-radius: 6px;
+
+    background: #222;
+    color: white;
+
+    font-size: 1rem;
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+#guess-button:hover {
+    background: #444;
+}
+
+#guess-button:disabled {
+    background: #aaa;
+    cursor: not-allowed;
+}
+
+
+/* ========================================
+   6. Autocomplete
+   ======================================== */
+
+.autocomplete-list {
+    position: absolute;
+
+    left: 0;
+    right: 0;
+
+    margin-top: 5px;
+
+    background: white;
+
+    border: 1px solid #ccc;
+    border-radius: 6px;
+
+    overflow: hidden;
+
+    z-index: 10;
+}
+
+.autocomplete-option {
+    padding: 10px 14px;
+
+    cursor: pointer;
+}
+
+.autocomplete-option:hover {
+    background: #eeeeee;
+}
+
+
+/* ========================================
+   7. Überschrift der Ergebnis-Tabelle
+   ======================================== */
+
+.result-header {
+    display: grid;
+
+    grid-template-columns:
+        1.5fr
+        repeat(6, 1fr);
+
+    gap: 8px;
+
+    margin-bottom: 8px;
+
+    font-weight: bold;
+    text-align: center;
+}
+
+.result-header div {
+    padding: 8px 4px;
+}
+
+
+/* ========================================
+   8. Guess-Zeilen
+   ======================================== */
+
+.guesses-container {
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+}
+
+.guess-row {
+    display: grid;
+
+    grid-template-columns:
+        1.5fr
+        repeat(6, 1fr);
+
+    gap: 8px;
+}
+
+
+/* Spielername */
+
+.player-name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 70px;
+
+    padding: 10px;
+
+    background: white;
+
+    border-radius: 8px;
+
+    font-weight: bold;
+    text-align: center;
+}
+
+
+/* ========================================
+   9. Ergebnisfelder
+   ======================================== */
+
+.result {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    min-height: 70px;
+
+    padding: 10px;
+
+    border-radius: 8px;
+
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+
+    color: white;
+}
+
+
+/* richtig */
+
+.correct {
+    background: #2e9d54;
+}
+
+
+/* nah dran */
+
+.close {
+    background: #d4a72c;
+}
+
+
+/* falsch */
+
+.wrong {
+    background: #c94c4c;
+}
+
+
+/* ========================================
+   10. Game-Over / Erfolgsmeldung
+   ======================================== */
+
+.game-message {
+    max-width: 550px;
+
+    margin: 30px auto;
+
+    padding: 25px;
+
+    background: white;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.game-message h2 {
+    margin-top: 0;
+}
+
+#new-game-button {
+    margin-top: 15px;
+
+    padding: 10px 18px;
+
+    border: none;
+    border-radius: 6px;
+
+    background: #222;
+    color: white;
+
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+
+/* ========================================
+   11. Legende
+   ======================================== */
+
+.legend {
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: center;
+
+    gap: 18px;
+
+    margin-top: 30px;
+
+    color: #555;
+    font-size: 0.9rem;
+}
+
+.legend div {
+    display: flex;
+    align-items: center;
+
+    gap: 6px;
+}
+
+.legend-box {
+    width: 18px;
+    height: 18px;
+
+    border-radius: 4px;
+}
+
+
+/* ========================================
+   12. Hilfsklassen
+   ======================================== */
+
+.hidden {
+    display: none;
+}
+
+
+/* ========================================
+   13. Mobile Ansicht
+   ======================================== */
+
+@media (max-width: 750px) {
+
+    .game-container {
+        width: 100%;
+        padding: 20px 10px;
+    }
+
+    .game-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .result-header,
+    .guess-row {
+        grid-template-columns:
+            120px
+            repeat(5, 95px);
+    }
+
+    .guesses-container {
+        overflow-x: auto;
+    }
+
+    .result-header {
+        overflow-x: auto;
+    }
+
+    .player-name,
+    .result {
+        min-height: 60px;
+        font-size: 0.9rem;
+    }
+
+    .search-wrapper {
+        flex-direction: column;
+    }
+
+    #guess-button {
+        width: 100%;
+    }
+}
+
+.country-flag {
+    width: 60px;
+    height: 42px;
+    object-fit: cover;
+}

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Darts Who Are Ya?</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="game-container">
+
+        <!-- Header -->
+        <header class="game-header">
+            <h1>Guess the Tour Card Holder</h1>
+
+        </header>
+
+
+        <!-- Game Status -->
+        <section class="game-status">
+
+            <p id="guess-counter">
+                Data last updated: 10/09/2026 <br>
+                Tries Used <span id="current-guess">0</span> / 6
+            </p>
+
+        </section>
+
+
+        <!-- Player Search -->
+        <section class="player-search">
+
+            <label for="player-input">
+                Choose Player
+            </label>
+
+            <div class="search-wrapper">
+
+                <input
+                    type="text"
+                    id="player-input"
+                    placeholder="Spieler suchen..."
+                    autocomplete="off"
+                >
+
+                <button id="guess-button">
+                    Guess
+                </button>
+
+            </div>
+
+
+            <!-- Autocomplete Results -->
+            <div
+                id="autocomplete-list"
+                class="autocomplete-list"
+            >
+            </div>
+
+        </section>
+
+
+        <!-- Column Labels -->
+        <section class="result-header">
+
+            <div>Player</div>
+            <div>Country</div>
+            <div>Age</div>
+            <div>Ranking</div>
+            <div>Major Titles</div>
+            <div>Floor Titles</div>
+            <div>Tour Card Since</div>
+
+        </section>
+
+
+        <!-- Previous Guesses -->
+        <section
+            id="guesses-container"
+            class="guesses-container"
+        >
+
+            <!--
+            Beispiel:
+
+            <div class="guess-row">
+
+                <div class="player-name">
+                    Luke Littler
+                </div>
+
+                <div class="result correct">
+                    England
+                </div>
+
+                <div class="result correct">
+                    Right
+                </div>
+
+                <div class="result wrong">
+                    19 ↑
+                </div>
+
+                <div class="result close">
+                    #1 ↓
+                </div>
+
+                <div class="result wrong">
+                    4 ↑
+                </div>
+
+            </div>
+            -->
+
+        </section>
+
+
+        <!-- Win / Lose Message -->
+        <section
+            id="game-message"
+            class="game-message hidden"
+        >
+
+            <h2 id="game-message-title"></h2>
+
+            <p id="game-message-text"></p>
+
+            <button
+                id="new-game-button"
+                class="hidden"
+            >
+                New Game
+            </button>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>

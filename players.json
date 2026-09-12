@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Luke Littler",
+    "country": "England",
+    "age": "21-01-2007",
+    "ranking": 1,
+    "majorTitles": 15,
+    "floorTitles": 10,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Luke Humphries",
+    "country": "England",
+    "age": "11-02-1995",
+    "ranking": 2,
+    "majorTitles": 10,
+    "floorTitles": 16,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "Gian van Veen",
+    "country": "Netherlands",
+    "age": "21-04-2002",
+    "ranking": 3,
+    "majorTitles": 1,
+    "floorTitles": 1,
+    "TourCardSince": 2023
+  },
+  {
+    "name": "Gerwyn Price",
+    "country": "Wales",
+    "age": "07-03-1985",
+    "ranking": 4,
+    "majorTitles": 9,
+    "floorTitles": 32,
+    "TourCardSince": 2014
+  },
+  {
+    "name": "Jonny Clayton",
+    "country": "Wales",
+    "age": "04-10-1974",
+    "ranking": 5,
+    "majorTitles": 6,
+    "floorTitles": 10,
+    "TourCardSince": 2015
+  },
+  {
+    "name": "Michael van Gerwen",
+    "country": "Netherlands",
+    "age": "25-04-1989",
+    "ranking": 6,
+    "majorTitles": 51,
+    "floorTitles": 91,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "James Wade",
+    "country": "England",
+    "age": "06-04-1983",
+    "ranking": 7,
+    "majorTitles": 10,
+    "floorTitles": 27,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Josh Rock",
+    "country": "Northern Ireland",
+    "age": "13-04-2001",
+    "ranking": 8,
+    "majorTitles": 1,
+    "floorTitles": 6,
+    "TourCardSince": 2022
+  },
+  {
+    "name": "Gary Anderson",
+    "country": "Scotland",
+    "age": "22-12-1970",
+    "ranking": 9,
+    "majorTitles": 9,
+    "floorTitles": 39,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Stephen Bunting",
+    "country": "England",
+    "age": "04-04-1985",
+    "ranking": 10,
+    "majorTitles": 1,
+    "floorTitles": 7,
+    "TourCardSince": 2014
+  },
+  {
+    "name": "Danny Noppert",
+    "country": "Netherlands",
+    "age": "31-12-1990",
+    "ranking": 11,
+    "majorTitles": 1,
+    "floorTitles": 5,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "Wessel Nijman",
+    "country": "Netherlands",
+    "age": "26-06-2000",
+    "ranking": 12,
+    "majorTitles": 0,
+    "floorTitles": 11,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Ryan Searle",
+    "country": "England",
+    "age": "21-10-1987",
+    "ranking": 13,
+    "majorTitles": 0,
+    "floorTitles": 8,
+    "TourCardSince": 2017
+  },
+  {
+    "name": "Ross Smith",
+    "country": "England",
+    "age": "21-05-1989",
+    "ranking": 14,
+    "majorTitles": 1,
+    "floorTitles": 10,
+    "TourCardSince": 2012
+  },
+  {
+    "name": "Chris Dobey",
+    "country": "England",
+    "age": "31-05-1990",
+    "ranking": 15,
+    "majorTitles": 1,
+    "floorTitles": 10,
+    "TourCardSince": 2015
+  },
+  {
+    "name": "Nathan Aspinall",
+    "country": "England",
+    "age": "15-07-1991",
+    "ranking": 16,
+    "majorTitles": 2,
+    "floorTitles": 9,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "Jermaine Wattimena",
+    "country": "Netherlands",
+    "age": "20-01-1988",
+    "ranking": 17,
+    "majorTitles": 0,
+    "floorTitles": 3,
+    "TourCardSince": 2015
+  },
+  {
+    "name": "Luke Woodhouse",
+    "country": "England",
+    "age": "13-10-1988",
+    "ranking": 18,
+    "majorTitles": 0,
+    "floorTitles": 2,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "Martin Schindler",
+    "country": "Germany",
+    "age": "16-08-1996",
+    "ranking": 19,
+    "majorTitles": 0,
+    "floorTitles": 4,
+    "TourCardSince": 2017
+  },
+  {
+    "name": "Krzysztof Ratajski",
+    "country": "Poland",
+    "age": "01-01-1977",
+    "ranking": 20,
+    "majorTitles": 0,
+    "floorTitles": 12,
+    "TourCardSince": 2019
+  },
+  {
+    "name": "Rob Cross",
+    "country": "England",
+    "age": "21-09-1990",
+    "ranking": 21,
+    "majorTitles": 4,
+    "floorTitles": 13,
+    "TourCardSince": 2017
+  },
+  {
+    "name": "Dirk van Duijvenbode",
+    "country": "Netherlands",
+    "age": "30-06-1992",
+    "ranking": 22,
+    "majorTitles": 0,
+    "floorTitles": 6,
+    "TourCardSince": 2016
+  },
+  {
+    "name": "Damon Heta",
+    "country": "Australia",
+    "age": "10-08-1987",
+    "ranking": 23,
+    "majorTitles": 1,
+    "floorTitles": 10,
+    "TourCardSince": 2020
+  },
+  {
+    "name": "Mike De Decker",
+    "country": "Belgium",
+    "age": "15-03-1995",
+    "ranking": 24,
+    "majorTitles": 1,
+    "floorTitles": 1,
+    "TourCardSince": 2020
+  },
+  {
+    "name": "Ryan Joyce",
+    "country": "England",
+    "age": "20-09-1985",
+    "ranking": 25,
+    "majorTitles": 0,
+    "floorTitles": 2,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "Cameron Menzies",
+    "country": "Scotland",
+    "age": "27-09-1989",
+    "ranking": 26,
+    "majorTitles": 0,
+    "floorTitles": 3,
+    "TourCardSince": 2022
+  },
+  {
+    "name": "Andrew Gilding",
+    "country": "England",
+    "age": "07-12-1970",
+    "ranking": 27,
+    "majorTitles": 1,
+    "floorTitles": 1,
+    "TourCardSince": 2021
+  },
+  {
+    "name": "Kevin Doets",
+    "country": "Netherlands",
+    "age": "15-09-1998",
+    "ranking": 28,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2022
+  },
+  {
+    "name": "Daryl Gurney",
+    "country": "Northern Ireland",
+    "age": "22-03-1986",
+    "ranking": 29,
+    "majorTitles": 3,
+    "floorTitles": 3,
+    "TourCardSince": 2013
+  },
+  {
+    "name": "Dave Chisnall",
+    "country": "England",
+    "age": "12-09-1980",
+    "ranking": 30,
+    "majorTitles": 0,
+    "floorTitles": 26,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Joe Cullen",
+    "country": "England",
+    "age": "13-07-1989",
+    "ranking": 31,
+    "majorTitles": 1,
+    "floorTitles": 12,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Ritchie Edhouse",
+    "country": "England",
+    "age": "19-04-1983",
+    "ranking": 32,
+    "majorTitles": 1,
+    "floorTitles": 0,
+    "TourCardSince": 2021
+  },
+  {
+    "name": "Ricardo Pietreczko",
+    "country": "Germany",
+    "age": "20-10-1994",
+    "ranking": 33,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2022
+  },
+  {
+    "name": "William O'Connor",
+    "country": "Ireland",
+    "age": "18-07-1986",
+    "ranking": 34,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Michael Smith",
+    "country": "England",
+    "age": "18-09-1990",
+    "ranking": 35,
+    "majorTitles": 3,
+    "floorTitles": 20,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Niels Zonneveld",
+    "country": "Netherlands",
+    "age": "22-07-1988",
+    "ranking": 36,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2019
+  },
+  {
+    "name": "Peter Wright",
+    "country": "Scotland",
+    "age": "10-03-1970",
+    "ranking": 37,
+    "majorTitles": 10,
+    "floorTitles": 34,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Niko Springer",
+    "country": "Germany",
+    "age": "11-07-2000",
+    "ranking": 38,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Martin Lukeman",
+    "country": "England",
+    "age": "23-05-1985",
+    "ranking": 39,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2021
+  },
+  {
+    "name": "Callan Rydz",
+    "country": "England",
+    "age": "03-07-1998",
+    "ranking": 40,
+    "majorTitles": 0,
+    "floorTitles": 3,
+    "TourCardSince": 2020
+  },
+  {
+    "name": "Raymond van Barneveld",
+    "country": "Netherlands",
+    "age": "20-04-1967",
+    "ranking": 41,
+    "majorTitles": 10,
+    "floorTitles": 18,
+    "TourCardSince": 2021
+  },
+  {
+    "name": "Justin Hood",
+    "country": "England",
+    "age": "05-07-1985",
+    "ranking": 42,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Mickey Mansell",
+    "country": "Ireland",
+    "age": "22-02-1973",
+    "ranking": 43,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Madars Razma",
+    "country": "Latvia",
+    "age": "26-09-1988",
+    "ranking": 44,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2017
+  },
+  {
+    "name": "Connor Scutt",
+    "country": "England",
+    "age": "15-07-1996",
+    "ranking": 45,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Jeffrey de Graaf",
+    "country": "Sweden",
+    "age": "21-11-1990",
+    "ranking": 46,
+    "majorTitles": 0,
+    "floorTitles": 2,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Dimitri Van den Bergh",
+    "country": "Belgium",
+    "age": "08-07-1994",
+    "ranking": 47,
+    "majorTitles": 2,
+    "floorTitles": 3,
+    "TourCardSince": 2015
+  },
+  {
+    "name": "Gabriel Clemens",
+    "country": "Germany",
+    "age": "16-08-1983",
+    "ranking": 48,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "James Hurrell",
+    "country": "England",
+    "age": "25-08-1994",
+    "ranking": 49,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Kim Huybrechts",
+    "country": "Belgium",
+    "age": "16-11-1985",
+    "ranking": 50,
+    "majorTitles": 0,
+    "floorTitles": 4,
+    "TourCardSince": 2012
+  },
+  {
+    "name": "Brendan Dolan",
+    "country": "Ireland",
+    "age": "02-08-1973",
+    "ranking": 51,
+    "majorTitles": 0,
+    "floorTitles": 10,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Ricky Evans",
+    "country": "England",
+    "age": "29-07-1990",
+    "ranking": 52,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2013
+  },
+  {
+    "name": "Scott Williams",
+    "country": "England",
+    "age": "18-01-1990",
+    "ranking": 52,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2023
+  },
+  {
+    "name": "Keane Barry",
+    "country": "Ireland",
+    "age": "25-07-2002",
+    "ranking": 54,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2021
+  },
+  {
+    "name": "Mensur Suljovic",
+    "country": "Austria",
+    "age": "05-03-1972",
+    "ranking": 55,
+    "majorTitles": 1,
+    "floorTitles": 5,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Ian White",
+    "country": "England",
+    "age": "17-08-1970",
+    "ranking": 56,
+    "majorTitles": 0,
+    "floorTitles": 13,
+    "TourCardSince": 2011
+  },
+  {
+    "name": "Karel Sedlacek",
+    "country": "Czech Republic",
+    "age": "20-02-1979",
+    "ranking": 57,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Sebastian Bialecki",
+    "country": "Poland",
+    "age": "15-07-2003",
+    "ranking": 58,
+    "majorTitles": 0,
+    "floorTitles": 2,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Richard Veenstra",
+    "country": "Netherlands",
+    "age": "29-02-1981",
+    "ranking": 59,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2023
+  },
+  {
+    "name": "Alan Soutar",
+    "country": "Scotland",
+    "age": "10-01-1978",
+    "ranking": 60,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2021
+  },
+  {
+    "name": "Robert Owen",
+    "country": "Wales",
+    "age": "16-06-1983",
+    "ranking": 61,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2023
+  },
+  {
+    "name": "Ryan Meikle",
+    "country": "England",
+    "age": "13-08-1996",
+    "ranking": 62,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2018
+  },
+  {
+    "name": "Lukas Wenig",
+    "country": "Germany",
+    "age": "04-01-1994",
+    "ranking": 63,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Nick Kenny",
+    "country": "Wales",
+    "age": "24-07-1984",
+    "ranking": 64,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2023
+  },
+  {
+    "name": "Bradley Brooks",
+    "country": "England",
+    "age": "28-08-1999",
+    "ranking": 65,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Mario Vandenbogaerde",
+    "country": "Belgium",
+    "age": "04-06-1973",
+    "ranking": 66,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Thibault Tricole",
+    "country": "France",
+    "age": "01-10-1989",
+    "ranking": 67,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2024
+  },
+  {
+    "name": "Max Hopp",
+    "country": "Germany",
+    "age": "20-08-1996",
+    "ranking": 68,
+    "majorTitles": 0,
+    "floorTitles": 2,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Cameron Crabtree",
+    "country": "England",
+    "age": "17-09-1997",
+    "ranking": 69,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Wesley Plaisier",
+    "country": "Netherlands",
+    "age": "30-03-1990",
+    "ranking": 70,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Cristo Reyes",
+    "country": "Spain",
+    "age": "27-08-1987",
+    "ranking": 71,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Maik Kuivenhoven",
+    "country": "Netherlands",
+    "age": "05-05-1988",
+    "ranking": 72,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Adam Lipscombe",
+    "country": "England",
+    "age": "30-05-1992",
+    "ranking": 72,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Tom Bissell",
+    "country": "England",
+    "age": "02-04-1987",
+    "ranking": 74,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Darryl Pilgrim",
+    "country": "England",
+    "age": "30-06-1987",
+    "ranking": 75,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Beau Greaves",
+    "country": "England",
+    "age": "09-09-2004",
+    "ranking": 76,
+    "majorTitles": 0,
+    "floorTitles": 1,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Cor Dekker",
+    "country": "Norway",
+    "age": "09-10-1987",
+    "ranking": 77,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Dominik Gruellich",
+    "country": "Germany",
+    "age": "19-04-2005",
+    "ranking": 78,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Christian Kist",
+    "country": "Netherlands",
+    "age": "22-04-1986",
+    "ranking": 79,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Andy Boulton",
+    "country": "Scotland",
+    "age": "24-02-1973",
+    "ranking": 80,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Tom Sykes",
+    "country": "England",
+    "age": "04-11-1992",
+    "ranking": 81,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Jim Long",
+    "country": "Canada",
+    "age": "24-04-1969",
+    "ranking": 82,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Charlie Manby",
+    "country": "England",
+    "age": "23-02-2004",
+    "ranking": 83,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Oskar Lukasiak",
+    "country": "Sweden",
+    "age": "05-02-2002",
+    "ranking": 85,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Thomas Lovely",
+    "country": "England",
+    "age": "12-09-1998",
+    "ranking": 86,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Leon Weber",
+    "country": "Germany",
+    "age": "21-06-2004",
+    "ranking": 87,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Jimmy van Schie",
+    "country": "Netherlands",
+    "age": "09-06-1994",
+    "ranking": 88,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Darius Labanauskas",
+    "country": "Lithuania",
+    "age": "26-07-1976",
+    "ranking": 89,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Tavis Dudeney",
+    "country": "England",
+    "age": "21-03-2003",
+    "ranking": 90,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Marvin van Velzen",
+    "country": "Netherlands",
+    "age": "03-06-1997",
+    "ranking": 91,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Viktor Tingström",
+    "country": "Sweden",
+    "age": "13-07-1998",
+    "ranking": 92,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Shane McGuirk",
+    "country": "Ireland",
+    "age": "21-10-1994",
+    "ranking": 93,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Alexander Merkx",
+    "country": "Netherlands",
+    "age": "07-03-1994",
+    "ranking": 94,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "David Sharp",
+    "country": "Scotland",
+    "age": "10-11-1981",
+    "ranking": 96,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Greg Ritchie",
+    "country": "Scotland",
+    "age": "17-08-1996",
+    "ranking": 97,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Adam Paxton",
+    "country": "England",
+    "age": "18-10-1999",
+    "ranking": 98,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Adam Gawlas",
+    "country": "Czech Republic",
+    "age": "18-01-2002",
+    "ranking": 99,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Kai Gotthardt",
+    "country": "Germany",
+    "age": "27-03-1995",
+    "ranking": 99,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Mervyn King",
+    "country": "England",
+    "age": "22-03-1966",
+    "ranking": 101,
+    "majorTitles": 0,
+    "floorTitles": 8,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Adam Warner",
+    "country": "England",
+    "age": "29-09-1994",
+    "ranking": 102,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Owen Bates",
+    "country": "England",
+    "age": "16-09-2002",
+    "ranking": 103,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Dennie Olde Kalter",
+    "country": "Netherlands",
+    "age": "20-07-1984",
+    "ranking": 104,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Jurjen van der Velde",
+    "country": "Netherlands",
+    "age": "07-01-2004",
+    "ranking": 105,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Jeffrey Sparidaans",
+    "country": "Netherlands",
+    "age": "15-11-1993",
+    "ranking": 107,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Jeffrey De Zwaan",
+    "country": "Netherlands",
+    "age": "26-03-1996",
+    "ranking": 108,
+    "majorTitles": 0,
+    "floorTitles": 2,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Benjamin Pratnemer",
+    "country": "Slovenia",
+    "age": "03-02-1980",
+    "ranking": 109,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Stephen Burton",
+    "country": "England",
+    "age": "05-09-1979",
+    "ranking": 111,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Tyler Thorpe",
+    "country": "England",
+    "age": "08-03-2004",
+    "ranking": 112,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Niall Culleton",
+    "country": "Ireland",
+    "age": "18-11-1998",
+    "ranking": 112,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Chris Landman",
+    "country": "Netherlands",
+    "age": "17-01-1981",
+    "ranking": 115,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Sietse Lap",
+    "country": "Netherlands",
+    "age": "28-02-1998",
+    "ranking": 117,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Arno Merk",
+    "country": "Germany",
+    "age": "09-08-1996",
+    "ranking": 118,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Adam Leek",
+    "country": "Australia",
+    "age": "06-04-1999",
+    "ranking": 120,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Maximilian Czerwinski",
+    "country": "Germany",
+    "age": "27-08-1999",
+    "ranking": 122,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Rhys Griffin",
+    "country": "Wales",
+    "age": "14-04-1999",
+    "ranking": 123,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Stephen Rosney",
+    "country": "Ireland",
+    "age": "07-10-1994",
+    "ranking": 124,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Stefaan Henderyck",
+    "country": "Belgium",
+    "age": "05-06-1998",
+    "ranking": 125,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Tytus Kanik",
+    "country": "Poland",
+    "age": "03-06-1995",
+    "ranking": 126,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Samuel Price",
+    "country": "England",
+    "age": "20-03-1993",
+    "ranking": 128,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Stefan Bellmont",
+    "country": "Switzerland",
+    "age": "10-04-1989",
+    "ranking": 128,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Carl Sneyd",
+    "country": "England",
+    "age": "03-03-1987",
+    "ranking": 131,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Yorick Hofkens",
+    "country": "Germany",
+    "age": "14-01-2007",
+    "ranking": 134,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Pascal Rupprecht",
+    "country": "Germany",
+    "age": "25-04-2000",
+    "ranking": 135,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Rusty-Jake Rodriguez",
+    "country": "Austria",
+    "age": "11-09-2000",
+    "ranking": 136,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+    {
+    "name": "Marvin Kraft",
+    "country": "Germany",
+    "age": "06-05-2000",
+    "ranking": 137,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Pero Ljubic",
+    "country": "Croatia",
+    "age": "28-07-1989",
+    "ranking": 146,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2025
+  },
+  {
+    "name": "Filip Bereza",
+    "country": "Poland",
+    "age": "13-05-1995",
+    "ranking": 161,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  },
+  {
+    "name": "Matthias Ehlers",
+    "country": "Germany",
+    "age": "14-07-1998",
+    "ranking": 210,
+    "majorTitles": 0,
+    "floorTitles": 0,
+    "TourCardSince": 2026
+  }
+]
