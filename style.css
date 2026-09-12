@@ -371,7 +371,7 @@ body {
     .guess-row {
         grid-template-columns:
             120px
-            repeat(5, 95px);
+            repeat(6, 95px);
     }
 
     .guesses-container {
